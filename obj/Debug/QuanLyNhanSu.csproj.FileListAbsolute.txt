@@ -1,0 +1,3 @@
+D:\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\ThucTapNhom\QuanLyNhanSu\Qu-n-l-nh-n-vi-n\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\ThucTapNhom\QuanLyNhanSu\Qu-n-l-nh-n-vi-n\ignore\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
